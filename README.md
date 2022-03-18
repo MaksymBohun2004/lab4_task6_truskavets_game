@@ -45,5 +45,6 @@ True
 BossFriend(Character) -     The friend that doesn't care about your riddle-solving skills. Just give the friend your money!
 ```python
 >>> hunter = BossFriend('Hunter', 'An old fat hunter with a rifle and a long mustache.')
->>> hunter.set_demand(500)
+>>> hunter.set_item('hunting rifle')
+>>> hunter.set_demand(500)  #The amount of money you`ll have to pay the hunter for the item
 ```
