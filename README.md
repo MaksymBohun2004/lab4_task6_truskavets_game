@@ -48,3 +48,14 @@ BossFriend(Character) -     The friend that doesn't care about your riddle-solvi
 >>> hunter.set_item('hunting rifle')
 >>> hunter.set_demand(500)  #The amount of money you`ll have to pay the hunter for the item
 ```
+
+The modified main module has the game setting changed to a small city of Truskavets in western Ukraine.
+When travelling from Shakhtar sanatorium to Naftusya Source №1 to drink some famous healing water.
+In order to complete the game, you'll have to beat a Frog King, a Gopnik, an angry Grandma, and, eventually, the Unbeatable Pigeon, who can only be beat by a rifle, that you`ll have to buy from a local hunter. Don`t worry about having to beat so many enemies: you`ll have people like the policeman, the sanatorium consultant and, of course, the hunter, that will provide you with tools needed to win the fight for solving a riddle or paying them.
+
+
+Here's the path that you`ll have to take:
+
+<img width="550" alt="Знімок екрана 2022-03-18 о 15 51 35" src="https://user-images.githubusercontent.com/92430278/159025962-8acdbeb5-7b39-4cd1-ab79-b26facc834e5.png">
+
+
